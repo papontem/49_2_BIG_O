@@ -1,4 +1,4 @@
-## Big-O Notation Practice
+# Big-O Notation Practice
 
 In this exercise, you’ll analyze expressions and code to figure out the time complexity.
 Step One: Simplifying Expressions

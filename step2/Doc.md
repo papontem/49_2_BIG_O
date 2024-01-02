@@ -1,4 +1,4 @@
-## Step Two: Calculating Time Complexity
+# Step Two: Calculating Time Complexity
 
 Determine the time complexities for each of the following functions. If you’re not sure what these functions do, copy and paste them into the console and experiment with different inputs!
 
